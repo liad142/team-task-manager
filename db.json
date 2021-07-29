@@ -1,0 +1,56 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "need to fuel our car ",
+      "attention": false,
+      "member": "eden ohayon",
+      "date": "2021-07-29T13:26:47.093Z"
+    },
+    {
+      "id": 3,
+      "message": "bought bamba",
+      "attention": true,
+      "member": "lavie ohayon",
+      "date": "2021-07-29T13:26:52.646Z"
+    },
+    {
+      "message": "sadasdasdsafgdsgsdgdsg",
+      "attention": true,
+      "member": "liad ohayon",
+      "id": 4
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "firstName": "liad",
+      "lastName": "ohayon"
+    },
+    {
+      "id": 2,
+      "firstName": "zion",
+      "lastName": "zioni"
+    },
+    {
+      "id": 3,
+      "firstName": "zion",
+      "lastName": "shizoko"
+    },
+    {
+      "firstName": "edenosha",
+      "lastName": "ohayon",
+      "id": 4
+    },
+    {
+      "firstName": "josh",
+      "lastName": "susn",
+      "id": 5
+    },
+    {
+      "firstName": "saddas",
+      "lastName": "dsadasdasd",
+      "id": 6
+    }
+  ]
+}
